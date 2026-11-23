@@ -1,0 +1,6 @@
+{
+  "defaults": [
+    { "sku": "SKU-001", "quantity": 1, "unitPrice": 10.5 },
+    { "sku": "SKU-002", "quantity": 2, "unitPrice": 4.25 }
+  ]
+}

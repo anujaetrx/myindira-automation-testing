@@ -1,0 +1,12 @@
+node_modules/
+reports/
+artifacts/
+test-results/
+playwright-report/
+blob-report/
+src/auth/storage-state/*
+!src/auth/storage-state/.gitkeep
+# Non-secret env files (dev/qa/staging.env) are committed; secrets go in *.local.env or CI secrets
+config/env/*.local.env
+.env
+*.log

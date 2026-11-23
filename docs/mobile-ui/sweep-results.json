@@ -1,0 +1,1912 @@
+[
+ {
+  "device": "Pixel 7",
+  "page": "login",
+  "url": "/",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 0,
+  "smallTapExamples": [],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "dashboard",
+  "url": "/dashboard",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 82x42",
+   " Feed 82x42",
+   " Policies 82x42",
+   " Alerts 82x42",
+   " More 82x42",
+   "IK 40x40"
+  ],
+  "smallText": 16,
+  "smallTextExamples": [
+   "Low 10px",
+   "OVERDUE 10px",
+   "AT_RISK 10px",
+   "Dashboard 10px",
+   "Feed 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "feed",
+  "url": "/feed",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 33,
+  "smallTapExamples": [
+   "School  86x31",
+   " 36x36",
+   " 36x36",
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "My Feed 11px",
+   "University 11px",
+   "Birthdays 11px",
+   "Communities 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 3,
+  "pastRightExamples": [
+   "School  Programme  Batch  Semester  right=441",
+   "Semester  right=441",
+   " right=428"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "posts",
+  "url": "/posts",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 13,
+  "smallTapExamples": [
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39",
+   "❤️ 49x39",
+   "💡 49x39",
+   "🙌 49x39"
+  ],
+  "smallText": 6,
+  "smallTextExamples": [
+   "EVENT 10px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "bulk-upload",
+  "url": "/bulk-upload",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 11,
+  "smallTapExamples": [
+   "Select Upload Type 346x40",
+   "Download Type Template 346x40",
+   "Choose File 346x40",
+   "Upload 348x40",
+   "Reset 348x38",
+   " Dashboard 82x42"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 79,
+  "pastRightExamples": [
+   "#78 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#77 | BIRTHDAY | Isha Kanta Walia | 2/2/ right=716",
+   "#76 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#75 | EMPLOYEE | Isha Kanta Walia | 2/0/ right=716",
+   "#74 | EMPLOYEE | Isha Kanta Walia | 5/5/ right=716"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "master-data",
+  "url": "/master-data",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 70,
+  "smallTapExamples": [
+   "Computer Science (CSE) 169x32",
+   "Administration (ADMIN) 160x32",
+   "Human Resources (HR) 162x32",
+   "Master Business Administration Data (MAS 509x32",
+   "BBA Timetable (BBA_TIMETABLE) 221x32",
+   "SM Program (SM_PROGRAM) 200x32"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 121,
+  "pastRightExamples": [
+   "Master Business Administration Data (MAS right=543",
+   "Master Business Administration Data (MAS right=542",
+   "Master Business Administration Data (MAS right=526",
+   "Master of Business Administration (MASTE right=514",
+   "Master of Business Administration (MASTE right=513"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "notifications",
+  "url": "/notifications",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 7,
+  "smallTapExamples": [
+   "Mark all as read 117x38",
+   " Dashboard 82x42",
+   " Feed 82x42",
+   " Policies 82x42",
+   " Alerts 82x42",
+   " More 82x42"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "10/29/2026, 9:26:51 AM 11px",
+   "3/14/2026, 5:28:04 PM 11px",
+   "3/14/2026, 5:27:28 PM 11px",
+   "3/14/2026, 11:52:27 AM 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "policies",
+  "url": "/policies",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 15,
+  "smallTapExamples": [
+   "Department filter, currently All 184x39",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29"
+  ],
+  "smallText": 13,
+  "smallTextExamples": [
+   "School of Business 11px",
+   "Organic Attendance Report 11px",
+   "Science Program 11px",
+   "Computer Science 11px",
+   "Administration 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "acknowledgements",
+  "url": "/acknowledgements",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 8,
+  "smallTapExamples": [
+   "Pending 106x37",
+   "Completed 121x37",
+   " Dashboard 82x42",
+   " Feed 82x42",
+   " Policies 82x42",
+   " Alerts 82x42"
+  ],
+  "smallText": 8,
+  "smallTextExamples": [
+   "Pending 11px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "compliance",
+  "url": "/compliance",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 30,
+  "smallTapExamples": [
+   " Export 83x40",
+   "EMPLOYEE 80x22",
+   "STUDENT 72x22",
+   "STUDENT 72x22",
+   "EMPLOYEE 80x22",
+   "EMPLOYEE 80x22"
+  ],
+  "smallText": 54,
+  "smallTextExamples": [
+   "Policy 9px",
+   "OVERDUE 10px",
+   "EMPLOYEE 10px",
+   "STUDENT 10px",
+   "AT RISK 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": [
+   "AUTOTEST policy 1795159434872"
+  ]
+ },
+ {
+  "device": "Pixel 7",
+  "page": "reported-posts",
+  "url": "/reported-posts",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 82x42",
+   " Feed 82x42",
+   " Policies 82x42",
+   " Alerts 82x42",
+   " More 82x42",
+   "IK 40x40"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Pixel 7",
+  "page": "communities",
+  "url": "/communities",
+  "minTap": 48,
+  "vw": 412,
+  "vh": 839,
+  "scrollW": 412,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 41,
+  "smallTapExamples": [
+   " Review flagged posts  380x47",
+   "All 45x28",
+   "Active 66x28",
+   "Pending 77x28",
+   "Archived 81x28",
+   "Suspended 95x28"
+  ],
+  "smallText": 11,
+  "smallTextExamples": [
+   "Clubs 11px",
+   "Groups 11px",
+   "Pending 11px",
+   "Archived 11px",
+   "Open flags 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "login",
+  "url": "/",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 0,
+  "smallTapExamples": [],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "dashboard",
+  "url": "/dashboard",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 64x42",
+   " Feed 64x42",
+   " Policies 64x42",
+   " Alerts 64x42",
+   " More 64x42",
+   "IK 40x40"
+  ],
+  "smallText": 16,
+  "smallTextExamples": [
+   "Low 10px",
+   "OVERDUE 10px",
+   "AT_RISK 10px",
+   "Dashboard 10px",
+   "Feed 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "feed",
+  "url": "/feed",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 33,
+  "smallTapExamples": [
+   "School  86x31",
+   " 36x36",
+   " 36x36",
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "My Feed 11px",
+   "University 11px",
+   "Birthdays 11px",
+   "Communities 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 11,
+  "pastRightExamples": [
+   " My Feed  University  Birthdays  Com right=380",
+   " Communities right=364",
+   " right=361",
+   " right=358",
+   " right=341"
+  ],
+  "clipped": [
+   "Assistant Professor | School of Business"
+  ]
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "posts",
+  "url": "/posts",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 13,
+  "smallTapExamples": [
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39",
+   "❤️ 49x39",
+   "💡 49x39",
+   "🙌 49x39"
+  ],
+  "smallText": 6,
+  "smallTextExamples": [
+   "EVENT 10px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": [
+   "Master of Business Administrations"
+  ]
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "bulk-upload",
+  "url": "/bulk-upload",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 11,
+  "smallTapExamples": [
+   "Select Upload Type 254x40",
+   "Download Type Template 254x40",
+   "Choose File 254x40",
+   "Upload 256x40",
+   "Reset 256x38",
+   " Dashboard 64x42"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 79,
+  "pastRightExamples": [
+   "#78 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#77 | BIRTHDAY | Isha Kanta Walia | 2/2/ right=716",
+   "#76 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#75 | EMPLOYEE | Isha Kanta Walia | 2/0/ right=716",
+   "#74 | EMPLOYEE | Isha Kanta Walia | 5/5/ right=716"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "master-data",
+  "url": "/master-data",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 54,
+  "smallTapExamples": [
+   "Computer Science (CSE) 169x32",
+   "Administration (ADMIN) 160x32",
+   "Human Resources (HR) 162x32",
+   "Master Business Administration Data (MAS 509x32",
+   "BBA Timetable (BBA_TIMETABLE) 221x32",
+   "SM Program (SM_PROGRAM) 200x32"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 205,
+  "pastRightExamples": [
+   "Master Business Administration Data (MAS right=543",
+   "Master Business Administration Data (MAS right=542",
+   "Master Business Administration Data (MAS right=526",
+   "Master of Business Administration (MASTE right=514",
+   "Master of Business Administration (MASTE right=513"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "notifications",
+  "url": "/notifications",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 7,
+  "smallTapExamples": [
+   "Mark all as read 117x38",
+   " Dashboard 64x42",
+   " Feed 64x42",
+   " Policies 64x42",
+   " Alerts 64x42",
+   " More 64x42"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "10/29/2026, 9:26:51 AM 11px",
+   "3/14/2026, 5:28:04 PM 11px",
+   "3/14/2026, 5:27:28 PM 11px",
+   "3/14/2026, 11:52:27 AM 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "policies",
+  "url": "/policies",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 15,
+  "smallTapExamples": [
+   "Department filter, currently All 184x39",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29"
+  ],
+  "smallText": 13,
+  "smallTextExamples": [
+   "School of Business 11px",
+   "Organic Attendance Report 11px",
+   "Science Program 11px",
+   "Computer Science 11px",
+   "Administration 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "acknowledgements",
+  "url": "/acknowledgements",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 8,
+  "smallTapExamples": [
+   "Pending 106x37",
+   "Completed 121x37",
+   " Dashboard 64x42",
+   " Feed 64x42",
+   " Policies 64x42",
+   " Alerts 64x42"
+  ],
+  "smallText": 8,
+  "smallTextExamples": [
+   "Pending 11px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 1,
+  "pastRightExamples": [
+   "3 pending right=329"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "compliance",
+  "url": "/compliance",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 30,
+  "smallTapExamples": [
+   " Export 83x40",
+   "EMPLOYEE 80x22",
+   "STUDENT 72x22",
+   "STUDENT 72x22",
+   "EMPLOYEE 80x22",
+   "EMPLOYEE 80x22"
+  ],
+  "smallText": 54,
+  "smallTextExamples": [
+   "Policy 9px",
+   "OVERDUE 10px",
+   "EMPLOYEE 10px",
+   "STUDENT 10px",
+   "AT RISK 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": [
+   "SOIT SCI-PRO policy",
+   "AUTOTEST policy 1795159434872",
+   "Test Ackn New Request"
+  ]
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "reported-posts",
+  "url": "/reported-posts",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 64x42",
+   " Feed 64x42",
+   " Policies 64x42",
+   " Alerts 64x42",
+   " More 64x42",
+   "IK 40x40"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "Galaxy S9+",
+  "page": "communities",
+  "url": "/communities",
+  "minTap": 48,
+  "vw": 320,
+  "vh": 658,
+  "scrollW": 320,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 41,
+  "smallTapExamples": [
+   " Review flagged posts  288x47",
+   "All 45x28",
+   "Active 66x28",
+   "Pending 77x28",
+   "Archived 81x28",
+   "Suspended 95x28"
+  ],
+  "smallText": 11,
+  "smallTextExamples": [
+   "Clubs 11px",
+   "Groups 11px",
+   "Pending 11px",
+   "Archived 11px",
+   "Open flags 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "login",
+  "url": "/",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 0,
+  "smallTapExamples": [],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "dashboard",
+  "url": "/dashboard",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 75x42",
+   " Feed 75x42",
+   " Policies 75x42",
+   " Alerts 75x42",
+   " More 75x42",
+   "IK 40x40"
+  ],
+  "smallText": 16,
+  "smallTextExamples": [
+   "Low 10px",
+   "OVERDUE 10px",
+   "AT_RISK 10px",
+   "Dashboard 10px",
+   "Feed 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "feed",
+  "url": "/feed",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 27,
+  "smallTapExamples": [
+   "School  86x31",
+   " 36x36",
+   " 36x36",
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "My Feed 11px",
+   "University 11px",
+   "Birthdays 11px",
+   "Communities 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 5,
+  "pastRightExamples": [
+   " My Feed  University  Birthdays  Com right=380",
+   "School  Programme  Batch  Semester  right=441",
+   "Semester  right=441",
+   "Semester right=411",
+   " right=428"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "posts",
+  "url": "/posts",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 12,
+  "smallTapExamples": [
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39",
+   "❤️ 49x39",
+   "💡 49x39",
+   "🙌 49x39"
+  ],
+  "smallText": 6,
+  "smallTextExamples": [
+   "EVENT 10px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": [
+   "Master of Business Administrations"
+  ]
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "bulk-upload",
+  "url": "/bulk-upload",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 11,
+  "smallTapExamples": [
+   "Select Upload Type 309x40",
+   "Download Type Template 309x40",
+   "Choose File 309x40",
+   "Upload 311x40",
+   "Reset 311x38",
+   " Dashboard 75x42"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 79,
+  "pastRightExamples": [
+   "#78 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#77 | BIRTHDAY | Isha Kanta Walia | 2/2/ right=716",
+   "#76 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#75 | EMPLOYEE | Isha Kanta Walia | 2/0/ right=716",
+   "#74 | EMPLOYEE | Isha Kanta Walia | 5/5/ right=716"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "master-data",
+  "url": "/master-data",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 56,
+  "smallTapExamples": [
+   "Computer Science (CSE) 169x32",
+   "Administration (ADMIN) 160x32",
+   "Human Resources (HR) 162x32",
+   "Master Business Administration Data (MAS 510x32",
+   "BBA Timetable (BBA_TIMETABLE) 222x32",
+   "SM Program (SM_PROGRAM) 200x32"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 142,
+  "pastRightExamples": [
+   "Master Business Administration Data (MAS right=544",
+   "Master Business Administration Data (MAS right=543",
+   "Master Business Administration Data (MAS right=527",
+   "Master of Business Administration (MASTE right=515",
+   "Master of Business Administration (MASTE right=514"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "notifications",
+  "url": "/notifications",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 7,
+  "smallTapExamples": [
+   "Mark all as read 117x38",
+   " Dashboard 75x42",
+   " Feed 75x42",
+   " Policies 75x42",
+   " Alerts 75x42",
+   " More 75x42"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "10/29/2026, 9:26:51 AM 11px",
+   "3/14/2026, 5:28:04 PM 11px",
+   "3/14/2026, 5:27:28 PM 11px",
+   "3/14/2026, 11:52:27 AM 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "policies",
+  "url": "/policies",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 15,
+  "smallTapExamples": [
+   "Department filter, currently All 185x40",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29"
+  ],
+  "smallText": 13,
+  "smallTextExamples": [
+   "School of Business 11px",
+   "Organic Attendance Report 11px",
+   "Science Program 11px",
+   "Computer Science 11px",
+   "Administration 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "acknowledgements",
+  "url": "/acknowledgements",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 8,
+  "smallTapExamples": [
+   "Pending 106x37",
+   "Completed 121x37",
+   " Dashboard 75x42",
+   " Feed 75x42",
+   " Policies 75x42",
+   " Alerts 75x42"
+  ],
+  "smallText": 8,
+  "smallTextExamples": [
+   "Pending 11px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "compliance",
+  "url": "/compliance",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 30,
+  "smallTapExamples": [
+   " Export 83x40",
+   "EMPLOYEE 80x22",
+   "STUDENT 72x22",
+   "STUDENT 72x22",
+   "EMPLOYEE 80x22",
+   "EMPLOYEE 80x22"
+  ],
+  "smallText": 54,
+  "smallTextExamples": [
+   "Policy 9px",
+   "OVERDUE 10px",
+   "EMPLOYEE 10px",
+   "STUDENT 10px",
+   "AT RISK 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": [
+   "AUTOTEST policy 1795159434872",
+   "Test Ackn New Request"
+  ]
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "reported-posts",
+  "url": "/reported-posts",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 75x42",
+   " Feed 75x42",
+   " Policies 75x42",
+   " Alerts 75x42",
+   " More 75x42",
+   "IK 40x40"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone SE (3rd gen)",
+  "page": "communities",
+  "url": "/communities",
+  "minTap": 44,
+  "vw": 375,
+  "vh": 667,
+  "scrollW": 375,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 40,
+  "smallTapExamples": [
+   "All 45x28",
+   "Active 66x28",
+   "Pending 77x28",
+   "Archived 81x28",
+   "Suspended 95x28",
+   "All types 80x28"
+  ],
+  "smallText": 11,
+  "smallTextExamples": [
+   "Clubs 11px",
+   "Groups 11px",
+   "Pending 11px",
+   "Archived 11px",
+   "Open flags 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "login",
+  "url": "/",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 0,
+  "smallTapExamples": [],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "dashboard",
+  "url": "/dashboard",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 78x42",
+   " Feed 78x42",
+   " Policies 78x42",
+   " Alerts 78x42",
+   " More 78x42",
+   "IK 40x40"
+  ],
+  "smallText": 16,
+  "smallTextExamples": [
+   "Low 10px",
+   "OVERDUE 10px",
+   "AT_RISK 10px",
+   "Dashboard 10px",
+   "Feed 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "feed",
+  "url": "/feed",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 27,
+  "smallTapExamples": [
+   "School  86x31",
+   " 36x36",
+   " 36x36",
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "My Feed 11px",
+   "University 11px",
+   "Birthdays 11px",
+   "Communities 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 4,
+  "pastRightExamples": [
+   "School  Programme  Batch  Semester  right=441",
+   "Semester  right=441",
+   "Semester right=411",
+   " right=428"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "posts",
+  "url": "/posts",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 12,
+  "smallTapExamples": [
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39",
+   "❤️ 49x39",
+   "💡 49x39",
+   "🙌 49x39"
+  ],
+  "smallText": 6,
+  "smallTextExamples": [
+   "EVENT 10px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": [
+   "Master of Business Administrations"
+  ]
+ },
+ {
+  "device": "iPhone 14",
+  "page": "bulk-upload",
+  "url": "/bulk-upload",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 11,
+  "smallTapExamples": [
+   "Select Upload Type 324x40",
+   "Download Type Template 324x40",
+   "Choose File 324x40",
+   "Upload 326x40",
+   "Reset 326x38",
+   " Dashboard 78x42"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 79,
+  "pastRightExamples": [
+   "#78 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#77 | BIRTHDAY | Isha Kanta Walia | 2/2/ right=716",
+   "#76 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=716",
+   "#75 | EMPLOYEE | Isha Kanta Walia | 2/0/ right=716",
+   "#74 | EMPLOYEE | Isha Kanta Walia | 5/5/ right=716"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "master-data",
+  "url": "/master-data",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 57,
+  "smallTapExamples": [
+   "Computer Science (CSE) 169x32",
+   "Administration (ADMIN) 160x32",
+   "Human Resources (HR) 162x32",
+   "Master Business Administration Data (MAS 510x32",
+   "BBA Timetable (BBA_TIMETABLE) 222x32",
+   "SM Program (SM_PROGRAM) 200x32"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 133,
+  "pastRightExamples": [
+   "Master Business Administration Data (MAS right=544",
+   "Master Business Administration Data (MAS right=543",
+   "Master Business Administration Data (MAS right=527",
+   "Master of Business Administration (MASTE right=515",
+   "Master of Business Administration (MASTE right=514"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "notifications",
+  "url": "/notifications",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 7,
+  "smallTapExamples": [
+   "Mark all as read 117x38",
+   " Dashboard 78x42",
+   " Feed 78x42",
+   " Policies 78x42",
+   " Alerts 78x42",
+   " More 78x42"
+  ],
+  "smallText": 9,
+  "smallTextExamples": [
+   "10/29/2026, 9:26:51 AM 11px",
+   "3/14/2026, 5:28:04 PM 11px",
+   "3/14/2026, 5:27:28 PM 11px",
+   "3/14/2026, 11:52:27 AM 11px",
+   "Dashboard 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "policies",
+  "url": "/policies",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 15,
+  "smallTapExamples": [
+   "Department filter, currently All 184x40",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29"
+  ],
+  "smallText": 13,
+  "smallTextExamples": [
+   "School of Business 11px",
+   "Organic Attendance Report 11px",
+   "Science Program 11px",
+   "Computer Science 11px",
+   "Administration 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "acknowledgements",
+  "url": "/acknowledgements",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 8,
+  "smallTapExamples": [
+   "Pending 106x37",
+   "Completed 121x37",
+   " Dashboard 78x42",
+   " Feed 78x42",
+   " Policies 78x42",
+   " Alerts 78x42"
+  ],
+  "smallText": 8,
+  "smallTextExamples": [
+   "Pending 11px",
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "compliance",
+  "url": "/compliance",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 30,
+  "smallTapExamples": [
+   " Export 83x40",
+   "EMPLOYEE 80x22",
+   "STUDENT 72x22",
+   "STUDENT 72x22",
+   "EMPLOYEE 80x22",
+   "EMPLOYEE 80x22"
+  ],
+  "smallText": 54,
+  "smallTextExamples": [
+   "Policy 9px",
+   "OVERDUE 10px",
+   "EMPLOYEE 10px",
+   "STUDENT 10px",
+   "AT RISK 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": [
+   "AUTOTEST policy 1795159434872"
+  ]
+ },
+ {
+  "device": "iPhone 14",
+  "page": "reported-posts",
+  "url": "/reported-posts",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   " Dashboard 78x42",
+   " Feed 78x42",
+   " Policies 78x42",
+   " Alerts 78x42",
+   " More 78x42",
+   "IK 40x40"
+  ],
+  "smallText": 5,
+  "smallTextExamples": [
+   "Dashboard 10px",
+   "Feed 10px",
+   "Policies 10px",
+   "Alerts 10px",
+   "More 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPhone 14",
+  "page": "communities",
+  "url": "/communities",
+  "minTap": 44,
+  "vw": 390,
+  "vh": 664,
+  "scrollW": 390,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 40,
+  "smallTapExamples": [
+   "All 45x28",
+   "Active 66x28",
+   "Pending 77x28",
+   "Archived 81x28",
+   "Suspended 95x28",
+   "All types 80x28"
+  ],
+  "smallText": 11,
+  "smallTextExamples": [
+   "Clubs 11px",
+   "Groups 11px",
+   "Pending 11px",
+   "Archived 11px",
+   "Open flags 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "login",
+  "url": "/",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 0,
+  "contentShare": 100,
+  "smallTaps": 0,
+  "smallTapExamples": [],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "dashboard",
+  "url": "/dashboard",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 1,
+  "smallTapExamples": [
+   "IK 40x40"
+  ],
+  "smallText": 11,
+  "smallTextExamples": [
+   "Low 10px",
+   "OVERDUE 10px",
+   "AT_RISK 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "feed",
+  "url": "/feed",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 22,
+  "smallTapExamples": [
+   "School  86x31",
+   " 36x36",
+   " 36x36",
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39"
+  ],
+  "smallText": 4,
+  "smallTextExamples": [
+   "My Feed 11px",
+   "University 11px",
+   "Birthdays 11px",
+   "Communities 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "posts",
+  "url": "/posts",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 7,
+  "smallTapExamples": [
+   "Delete post 30x32",
+   "👍 49x39",
+   "🎉 49x39",
+   "❤️ 49x39",
+   "💡 49x39",
+   "🙌 49x39"
+  ],
+  "smallText": 1,
+  "smallTextExamples": [
+   "EVENT 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "bulk-upload",
+  "url": "/bulk-upload",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 6,
+  "smallTapExamples": [
+   "Select Upload Type 528x40",
+   "Download Type Template 528x40",
+   "Choose File 528x40",
+   "Upload 530x40",
+   "Reset 530x38",
+   "IK 40x40"
+  ],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 79,
+  "pastRightExamples": [
+   "#78 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=956",
+   "#77 | BIRTHDAY | Isha Kanta Walia | 2/2/ right=956",
+   "#76 | BIRTHDAY | Isha Kanta Walia | 2/0/ right=956",
+   "#75 | EMPLOYEE | Isha Kanta Walia | 2/0/ right=956",
+   "#74 | EMPLOYEE | Isha Kanta Walia | 5/5/ right=956"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "master-data",
+  "url": "/master-data",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 101,
+  "smallTapExamples": [
+   "Computer Science (CSE) 169x32",
+   "Administration (ADMIN) 160x32",
+   "Human Resources (HR) 162x32",
+   "Master Business Administration Data (MAS 510x32",
+   "BBA Timetable (BBA_TIMETABLE) 222x32",
+   "SM Program (SM_PROGRAM) 200x32"
+  ],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 25,
+  "pastRightExamples": [
+   "Master of Science in Computer Applicatio right=856",
+   "Master of Science in Computer Applicatio right=855",
+   "Master of Science in Computer Applicatio right=839",
+   "Bachelor Of Science In Computer Science  right=854",
+   "Bachelor Of Science In Computer Science  right=853"
+  ],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "notifications",
+  "url": "/notifications",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 2,
+  "smallTapExamples": [
+   "Mark all as read 117x38",
+   "IK 40x40"
+  ],
+  "smallText": 4,
+  "smallTextExamples": [
+   "10/29/2026, 9:26:51 AM 11px",
+   "3/14/2026, 5:28:04 PM 11px",
+   "3/14/2026, 5:27:28 PM 11px",
+   "3/14/2026, 11:52:27 AM 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "policies",
+  "url": "/policies",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 10,
+  "smallTapExamples": [
+   "Department filter, currently All 185x40",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29",
+   " Archive 90x29"
+  ],
+  "smallText": 8,
+  "smallTextExamples": [
+   "School of Business 11px",
+   "Organic Attendance Report 11px",
+   "Science Program 11px",
+   "Computer Science 11px",
+   "Administration 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "acknowledgements",
+  "url": "/acknowledgements",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 3,
+  "smallTapExamples": [
+   "Pending 106x37",
+   "Completed 121x37",
+   "IK 40x40"
+  ],
+  "smallText": 3,
+  "smallTextExamples": [
+   "Pending 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "compliance",
+  "url": "/compliance",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 25,
+  "smallTapExamples": [
+   " Export 83x40",
+   "EMPLOYEE 80x22",
+   "STUDENT 72x22",
+   "STUDENT 72x22",
+   "EMPLOYEE 80x22",
+   "EMPLOYEE 80x22"
+  ],
+  "smallText": 49,
+  "smallTextExamples": [
+   "Policy 9px",
+   "OVERDUE 10px",
+   "EMPLOYEE 10px",
+   "STUDENT 10px",
+   "AT RISK 10px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "reported-posts",
+  "url": "/reported-posts",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 1,
+  "smallTapExamples": [
+   "IK 40x40"
+  ],
+  "smallText": 0,
+  "smallTextExamples": [],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ },
+ {
+  "device": "iPad Pro 11",
+  "page": "communities",
+  "url": "/communities",
+  "minTap": 44,
+  "vw": 834,
+  "vh": 1194,
+  "scrollW": 834,
+  "overflowX": false,
+  "sidebarWidth": 240,
+  "contentShare": 71,
+  "smallTaps": 35,
+  "smallTapExamples": [
+   "All 45x28",
+   "Active 66x28",
+   "Pending 77x28",
+   "Archived 81x28",
+   "Suspended 95x28",
+   "All types 80x28"
+  ],
+  "smallText": 6,
+  "smallTextExamples": [
+   "Clubs 11px",
+   "Groups 11px",
+   "Pending 11px",
+   "Archived 11px",
+   "Open flags 11px"
+  ],
+  "pastRight": 0,
+  "pastRightExamples": [],
+  "clipped": []
+ }
+]

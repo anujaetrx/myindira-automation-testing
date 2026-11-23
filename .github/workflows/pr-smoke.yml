@@ -1,0 +1,34 @@
+name: PR Smoke
+
+on:
+  pull_request:
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TEST_ENV: qa
+      ADMIN_USERNAME: ${{ secrets.QA_ADMIN_USERNAME }}
+      ADMIN_PASSWORD: ${{ secrets.QA_ADMIN_PASSWORD }}
+      USER_USERNAME: ${{ secrets.QA_USER_USERNAME }}
+      USER_PASSWORD: ${{ secrets.QA_USER_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm run typecheck
+      - run: npm run lint
+      - run: npx playwright test --grep @smoke --project=chromium
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: smoke-report
+          path: |
+            reports/
+            artifacts/
+          retention-days: 7

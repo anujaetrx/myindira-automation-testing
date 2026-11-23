@@ -1,0 +1,44 @@
+name: Nightly Regression
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      env:
+        description: Target environment
+        type: choice
+        options: [dev, qa, staging]
+        default: qa
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3, 4]
+    env:
+      TEST_ENV: ${{ inputs.env || 'qa' }}
+      ADMIN_USERNAME: ${{ secrets.QA_ADMIN_USERNAME }}
+      ADMIN_PASSWORD: ${{ secrets.QA_ADMIN_PASSWORD }}
+      USER_USERNAME: ${{ secrets.QA_USER_USERNAME }}
+      USER_PASSWORD: ${{ secrets.QA_USER_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps
+      - run: npx playwright test --shard=${{ matrix.shard }}/4
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: results-shard-${{ matrix.shard }}
+          path: |
+            reports/
+            artifacts/
+          retention-days: 14

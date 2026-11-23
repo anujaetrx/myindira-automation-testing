@@ -1,0 +1,10 @@
+{
+  "invalidLogin": {
+    "username": "no.such.user@example.com",
+    "password": "Wrong-Password-1"
+  },
+  "profileUpdate": {
+    "firstName": "Automation",
+    "lastName": "Tester"
+  }
+}
